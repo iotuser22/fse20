@@ -1,4 +1,4 @@
-# Supporting Materials
+# IoTCheck Supporting Materials
 
 This artifact consists of spreadsheets that capture the statistics we obtained during our manual study and automated experiments with IoTCheck.
 To download this artifact please open 
